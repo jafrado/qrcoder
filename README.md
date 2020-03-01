@@ -1,7 +1,7 @@
 # qrcoder
 QR Code generator 
 
-This app was written to develop large QR Codes for scanning at long ranges. It supports generation of QR Code images up to 
+This app was written to develop large QR Codes for scanning at long ranges. It supports generation of QR Code images up to 10 meter (32.8 ft) (iPhone 6 and later) as well as multi-page printing for generating posters and banners which can be scanned at drive-by speeds.
 
 ## Prerequisites
 
